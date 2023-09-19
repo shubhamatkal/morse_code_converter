@@ -1,6 +1,6 @@
 #imports
 from morse_code import morse_code_dict
-from welcome-art import art
+from welcome_art import art
 
 print(art)
 #function to get key using dictionary value
