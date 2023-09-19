@@ -1,6 +1,8 @@
 #imports
 from morse_code import morse_code_dict
+from welcome-art import art
 
+print(art)
 #function to get key using dictionary value
 def get_key_by_value(dictionary, target_value):
     for key, value in dictionary.items():
